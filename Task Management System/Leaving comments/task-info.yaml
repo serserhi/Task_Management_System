@@ -1,0 +1,93 @@
+type: edu
+files:
+  - name: src/resources/application.properties
+    visible: true
+    learner_created: false
+  - name: src/taskmanagement/Application.java
+    visible: true
+    learner_created: false
+  - name: build.gradle
+    visible: true
+    learner_created: false
+  - name: test/ApplicationTests.java
+    visible: false
+    learner_created: false
+  - name: test/TestComment.java
+    visible: false
+    learner_created: false
+  - name: test/TestTask.java
+    visible: false
+    learner_created: false
+  - name: test/TestUser.java
+    visible: false
+    learner_created: false
+  - name: src/taskmanagement/AccountNotFoundException.java
+    visible: true
+    learner_created: true
+  - name: src/taskmanagement/AssigneeNotValidException.java
+    visible: true
+    learner_created: true
+  - name: src/taskmanagement/TaskRepository.java
+    visible: true
+    learner_created: true
+  - name: src/taskmanagement/RequestAssigneeDTO.java
+    visible: true
+    learner_created: true
+  - name: src/taskmanagement/AccountNotAuthorException.java
+    visible: true
+    learner_created: true
+  - name: src/taskmanagement/TaskController.java
+    visible: true
+    learner_created: true
+  - name: src/taskmanagement/Task.java
+    visible: true
+    learner_created: true
+  - name: src/taskmanagement/TaskDTO.java
+    visible: true
+    learner_created: true
+  - name: src/taskmanagement/Account.java
+    visible: true
+    learner_created: true
+  - name: src/taskmanagement/SecurityConfig.java
+    visible: true
+    learner_created: true
+  - name: src/taskmanagement/UserDetailsServiceImpl.java
+    visible: true
+    learner_created: true
+  - name: src/taskmanagement/ControllerExceptionHandler.java
+    visible: true
+    learner_created: true
+  - name: src/taskmanagement/CustomErrorMessage.java
+    visible: true
+    learner_created: true
+  - name: src/taskmanagement/AccountController.java
+    visible: true
+    learner_created: true
+  - name: src/taskmanagement/TaskNotFoundException.java
+    visible: true
+    learner_created: true
+  - name: src/taskmanagement/AccountRepository.java
+    visible: true
+    learner_created: true
+  - name: src/taskmanagement/RequestStatusDTO.java
+    visible: true
+    learner_created: true
+  - name: src/taskmanagement/Comment.java
+    visible: true
+    learner_created: true
+  - name: src/taskmanagement/RequestTextDTO.java
+    visible: true
+    learner_created: true
+  - name: src/taskmanagement/CommentRepository.java
+    visible: true
+    learner_created: true
+  - name: src/taskmanagement/CommentController.java
+    visible: true
+    learner_created: true
+feedback_link: https://hyperskill.org/projects/423/stages/2463/implement#comment
+status: Solved
+feedback:
+  message: Well done! You've finished the project. Select a new project on <a href="https://hyperskill.org/projects">Hyperskill</a>
+    to continue learning.
+  time: "Thu, 06 Nov 2025 12:36:09 UTC"
+record: -1
